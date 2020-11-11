@@ -1,0 +1,9 @@
+c:\users\cmenez2016\documents\visual studio 2015\Projects\GestiondeLieuxBdd\BLL\bin\Debug\BLL.dll
+c:\users\cmenez2016\documents\visual studio 2015\Projects\GestiondeLieuxBdd\BLL\bin\Debug\BLL.pdb
+c:\users\cmenez2016\documents\visual studio 2015\Projects\GestiondeLieuxBdd\BLL\bin\Debug\BO.dll
+c:\users\cmenez2016\documents\visual studio 2015\Projects\GestiondeLieuxBdd\BLL\bin\Debug\DAL.dll
+c:\users\cmenez2016\documents\visual studio 2015\Projects\GestiondeLieuxBdd\BLL\bin\Debug\BO.pdb
+c:\users\cmenez2016\documents\visual studio 2015\Projects\GestiondeLieuxBdd\BLL\bin\Debug\DAL.pdb
+c:\users\cmenez2016\documents\visual studio 2015\Projects\GestiondeLieuxBdd\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+c:\users\cmenez2016\documents\visual studio 2015\Projects\GestiondeLieuxBdd\BLL\obj\Debug\BLL.dll
+c:\users\cmenez2016\documents\visual studio 2015\Projects\GestiondeLieuxBdd\BLL\obj\Debug\BLL.pdb
