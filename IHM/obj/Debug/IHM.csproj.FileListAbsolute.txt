@@ -1,0 +1,15 @@
+c:\users\cmenez2016\documents\visual studio 2015\Projects\GestiondeLieuxBdd\IHM\bin\Debug\IHM.exe.config
+c:\users\cmenez2016\documents\visual studio 2015\Projects\GestiondeLieuxBdd\IHM\bin\Debug\IHM.exe
+c:\users\cmenez2016\documents\visual studio 2015\Projects\GestiondeLieuxBdd\IHM\bin\Debug\IHM.pdb
+c:\users\cmenez2016\documents\visual studio 2015\Projects\GestiondeLieuxBdd\IHM\bin\Debug\BLL.dll
+c:\users\cmenez2016\documents\visual studio 2015\Projects\GestiondeLieuxBdd\IHM\bin\Debug\BO.dll
+c:\users\cmenez2016\documents\visual studio 2015\Projects\GestiondeLieuxBdd\IHM\bin\Debug\BLL.pdb
+c:\users\cmenez2016\documents\visual studio 2015\Projects\GestiondeLieuxBdd\IHM\bin\Debug\BO.pdb
+c:\users\cmenez2016\documents\visual studio 2015\Projects\GestiondeLieuxBdd\IHM\obj\Debug\IHM.csprojResolveAssemblyReference.cache
+c:\users\cmenez2016\documents\visual studio 2015\Projects\GestiondeLieuxBdd\IHM\obj\Debug\IHM.exe
+c:\users\cmenez2016\documents\visual studio 2015\Projects\GestiondeLieuxBdd\IHM\obj\Debug\IHM.pdb
+c:\users\cmenez2016\documents\visual studio 2015\Projects\GestiondeLieuxBdd\IHM\bin\Debug\DAL.dll
+c:\users\cmenez2016\documents\visual studio 2015\Projects\GestiondeLieuxBdd\IHM\bin\Debug\DAL.pdb
+F:\GestiondeLieuxBdd\IHM\bin\Debug\IHM.exe.config
+F:\GestiondeLieuxBdd\IHM\obj\Debug\IHM.exe
+F:\GestiondeLieuxBdd\IHM\obj\Debug\IHM.pdb
